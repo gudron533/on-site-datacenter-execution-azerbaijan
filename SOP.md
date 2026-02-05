@@ -9,7 +9,7 @@ This SOP defines how on-site work is executed to minimize operational and compli
 
 ## 2. No improvisation
 - No “creative fixes”
-- If unexpected conditions appear: document → notify → wait for decision
+- If unexpected conditions appear: document - notify - wait for decision
 
 ## 3. Evidence & reporting
 - Use timestamped photo/video evidence when requested
