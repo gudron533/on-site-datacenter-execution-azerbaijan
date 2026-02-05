@@ -45,9 +45,9 @@ See: [SOP.md](./SOP.md)
 
 ## Start here
 
-- **Start here (engagement guide):** (Pinned issue)
-- **Emergency request template:** .github/ISSUE_TEMPLATE/emergency-on-site-request.md
-- **Planned maintenance template:** .github/ISSUE_TEMPLATE/planned-maintenance-request.md
+- **Start here (engagement guide):** [Issue](https://github.com/gudron533/on-site-datacenter-execution-azerbaijan/issues/1)
+- **Emergency request template:** [ISSUE_TEMPLATE/emergency-on-site-request.md](https://github.com/gudron533/on-site-datacenter-execution-azerbaijan/blob/2354c40afbae245ba0b4586d85de9d869a2e68a5/.github/ISSUE_TEMPLATE/emergency-on-site-request.md)
+- **Planned maintenance template:** [ISSUE_TEMPLATE/planned-maintenance-request.md](https://github.com/gudron533/on-site-datacenter-execution-azerbaijan/blob/2354c40afbae245ba0b4586d85de9d869a2e68a5/.github/ISSUE_TEMPLATE/planned-maintenance-request.md)
 
 ---
 
