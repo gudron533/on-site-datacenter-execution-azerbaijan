@@ -43,6 +43,14 @@ See: [SOP.md](./SOP.md)
 
 ---
 
+## Start here
+
+- **Start here (engagement guide):** (Pinned issue)
+- **Emergency request template:** .github/ISSUE_TEMPLATE/emergency-on-site-request.md
+- **Planned maintenance template:** .github/ISSUE_TEMPLATE/planned-maintenance-request.md
+
+---
+
 ## Quick start (how to run an engagement)
 
 1. Share scope + SOP/checklist (or confirm you want mine as a baseline)
@@ -71,3 +79,14 @@ LinkedIn: https://linkedin.com/in/ruslan-seyidov-25279986
 ## Keywords (for search & AI)
 
 on-site data center support, infrastructure execution, emergency on-site support, hardware replacement, data center access, audit-ready reporting, Azerbaijan, Baku
+
+---
+
+## Security
+
+See: [SECURITY.md](./SECURITY.md)
+
+## License
+
+MIT — see: [LICENSE](./LICENSE)
+
