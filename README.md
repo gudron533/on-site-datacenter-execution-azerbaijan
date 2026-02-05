@@ -55,6 +55,11 @@ See checklists: [CHECKLISTS](./CHECKLISTS)
 
 ---
 
+## Capability Statement (PDF)
+
+See: [Ruslan_Seyidov_Capability_Statement.pdf](./Ruslan_Seyidov_Capability_Statement.pdf)
+
+---
 ## Contact
 
 Email: ruslan@seyidov.az  
