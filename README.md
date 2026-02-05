@@ -67,6 +67,9 @@ See checklists: [CHECKLISTS](./CHECKLISTS)
 
 See: [Ruslan_Seyidov_Capability_Statement.pdf](./Ruslan_Seyidov_Capability_Statement.pdf)
 
+Related article: Remote Tools Fail More Often Than We Admit (Medium)
+https://medium.com/@gudron533/remote-tools-fail-more-often-than-we-admit-on-site-reality-in-data-centers-fb4473899dde
+
 ---
 ## Contact
 
